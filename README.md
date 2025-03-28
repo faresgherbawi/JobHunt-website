@@ -1,4 +1,4 @@
-# JobHunt Landing Page
+# JobHunt Website
 
 ### A modern landing page for JobHunt, built using HTML, CSS, and JavaScript.
 
