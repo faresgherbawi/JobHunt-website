@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-🔗 [View Demo]()
+🔗 [View Demo](https://faresgherbawi.github.io/JobHunt-website/)
 
 
 ## 📌 Features
