@@ -13,7 +13,7 @@
 - Smooth animations and transitions 🎨  
 - Interactive UI with JavaScript ✨  
 - Mobile-friendly navigation 📱  
-- Menu showcase and contact section 🍔  
+- Menu showcase and contact section 🧰  
 
 
 ## 🛠️ Technologies Used
